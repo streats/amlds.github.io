@@ -1,0 +1,18 @@
+title: Annie Streater
+description: Portfolio and musings
+plugins:
+  - jekyll-relative-links # converts links to markdown files to their html counterparts
+relative_links:
+  enabled: true
+  collections: true
+header_pages:
+  - index.md
+  - about.md
+  - resume.md
+  - work/index.md
+  - case-studies/index.md
+  - craft-notes/index.md
+  - accessibility-statement.md
+  - contact.md  
+theme: minima
+
